@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Homework 1 - Index</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Homework 1</h1>
+    <p class="subtitle">Reproducing the reference web page using HTML & CSS</p>
+  </header>
+
+  <main>
+    <section class="image-block">
+      <img src="sayhello.png" alt="Say Hello Image">
+    </section>
+
+    <nav>
+      <h2>Navigation</h2>
+      <ul>
+        <li><a href="X.html#No13">No. 13</a></li>
+        <li><a href="X.html#SayHello">Get in Touch / Say Hello</a></li>
+        <li><a href="X.html#Article">Read our Latest Article</a></li>
+        <li><a href="X.html#Signup">Sign Up</a></li>
+        <li><a href="X.html#Contact">Contact Us</a></li>
+      </ul>
+    </nav>
+
+    <section class="contact">
+      <h2>Email Contacts</h2>
+      <ul>
+        <li><a href="mailto:person1@example.com">person1@example.com</a></li>
+        <li><a href="mailto:person2@example.com">person2@example.com</a></li>
+        <li><a href="mailto:person3@example.com">person3@example.com</a></li>
+        <li><a href="mailto:person4@example.com">person4@example.com</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Homework 1 - CSUEB</p>
+  </footer>
+</body>
+</html>

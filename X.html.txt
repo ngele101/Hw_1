@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Homework 1 - X Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <p id="Home">This is the start of X.html which corresponds to the “Home” link.</p>
+    <hr>
+
+    <p id="No13">This section corresponds to “No. 13”.</p>
+    <hr>
+
+    <p id="SayHello">This section corresponds to “Get in Touch / Say Hello”.</p>
+    <hr>
+
+    <p id="Article">This section corresponds to “Read our Latest Article”.</p>
+    <hr>
+
+    <p id="Signup">This section corresponds to “Sign Up”.</p>
+    <hr>
+
+    <p id="Contact">This section corresponds to “Contact Us”.</p>
+    <hr>
+
+    <p id="Section7">This is Section 7.</p>
+    <hr>
+
+    <p id="Section8">This is Section 8.</p>
+    <hr>
+
+    <p id="Section9">This is Section 9.</p>
+  </main>
+</body>
+</html>
